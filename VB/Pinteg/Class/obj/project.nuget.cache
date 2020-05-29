@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/8qa0/Ta0FvmZQzTAg4LMoVpeIyj1yhkvAj3NHdSZ0Gy3Jq9d04z4IsDYtCVsLxtU4xr+SMTAkuApSpawoMxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DBR\\source\\repos\\Pinteg\\Class\\Class.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DBR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
