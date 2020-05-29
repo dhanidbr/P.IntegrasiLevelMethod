@@ -8,17 +8,17 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("Pinteg")>
+<Assembly: AssemblyTitle("Pinteg_Level_Method")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("Pinteg")>
+<Assembly: AssemblyProduct("Pinteg_Level_Method")>
 <Assembly: AssemblyCopyright("Copyright ©  2020")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("2b9db8db-b03c-4ac0-b30a-0b62eb0a94ab")>
+<Assembly: Guid("d153f904-5679-40a9-b7bb-63a9f078f2ba")>
 
 ' Version information for an assembly consists of the following four values:
 '
